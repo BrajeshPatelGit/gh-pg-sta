@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.stickyScroll.enabled": true,
+    "terminal.integrated.suggest.enabled": true,
+    "files.exclude": {
+        "**/.git": false
+    }
+}
